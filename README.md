@@ -28,11 +28,8 @@ This repository contains the code, data preprocessing notebooks, and the final L
 ├── Network Intrusion Detection NSL-KDD.ipynb                        # Data preprocessing, training, and evaluation on NSL-KDD
 ├── Network Intrusion Detection CSE-CIC-IDS2018-00-Cleaning.ipynb   # Cleaning, filtering, and balancing the CSE-CIC-IDS2018 dataset
 ├── README.md                                                        # Repository documentation
-└── Report/                                                          # LaTeX report source files
-    ├── main.tex                                                     # Main LaTeX document
-    ├── main.pdf                                                     # Compiled French report (25 pages)
-    ├── ucd.png & ensa.png                                           # Institution logos for the cover page
-    └── figures/                                                     # Output plots, confusion matrices, and diagrams
+└── Rapport IDS (Deep learning).pdf                                  # Report
+└── présentation IDS.pptx                                            # Présentation 
 ```
 
 ---
